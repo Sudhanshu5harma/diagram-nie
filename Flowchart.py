@@ -4,7 +4,7 @@ import numpy as np
 
 #Paths
 
-main_dir="/media/ujwal/My files/Work/Non ML/Flowchart/"
+main_dir="/home/sudhanshusharma/git/diagram-nie/"
 input_dir=main_dir+"Input"
 data_dir=main_dir+"Data"
 
